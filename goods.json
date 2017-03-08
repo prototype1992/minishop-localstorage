@@ -1,0 +1,26 @@
+{
+  "10000": {
+    "name": "Apple Iphone SE",
+    "cost": 30000,
+    "description": "Apple Iphone SE описание товара",
+    "image": "img/1.jpg"
+  },
+  "10001": {
+    "name": "Apple Iphone 6",
+    "cost": 35000,
+    "description": "Apple Iphone 6 описание товара",
+    "image": "img/2.jpg"
+  },
+  "10002": {
+    "name": "Apple Iphone 6S",
+    "cost": 40000,
+    "description": "Apple Iphone 6S описание товара",
+    "image": "img/3.jpg"
+  },
+  "10003": {
+    "name": "Apple Iphone 7",
+    "cost": 50000,
+    "description": "Apple Iphone 7 описание товара",
+    "image": "img/4.jpg"
+  }
+}
